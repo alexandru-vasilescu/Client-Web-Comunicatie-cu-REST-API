@@ -1,0 +1,8 @@
+Compilarea se face cu make. Rularea se face cu make run.
+In cazul comenzilor care mai primesc si alt input:
+Se afiseaza un mesaj care arata utilizatorului ce camp trebuie introdus urmatorul, utilizatorul trebuie sa introduca doar valoarea.
+In cazul unei comenzi introduse gresit de la STDIN nu se face nimic. In enunt nu este specificata intoarcerea unui mesaj de eroare.
+Se poate introduce orice la stdin. Aplicatia inregistreaza doar comenziile cerute in enunt scrise corect. 
+O comanda de forma " register" sau "register ", cu spatiu dupa sau inainte, nu va fi perceputa de aplicatie.
+In enunt acest aspect nu este mentionat, iar pe forum ni s-a oferit liberatea sa dezvoltam cum vrem programul.
+Sper ca nu este o problema.
